@@ -4,4 +4,4 @@
  @version 2.5（纪念版）</br>
  @link https://yolen.cn</br>
  Typecho-Design主题交流QQ群：1079198426</br>
- 演示：akal.cn</br>
+ 演示：http://akal.cn</br>
